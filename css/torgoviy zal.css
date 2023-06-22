@@ -1,0 +1,79 @@
+h8 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 9vw;
+  color: #000000;
+  top: 15vw;
+  left: 7vw;
+}
+.lline1 {
+  position: absolute;
+  height: 0.2vw;
+  width: 93vw;
+  top: 24.7vw;
+  left: 7vw;
+}
+.room2 {
+  position: absolute;
+  height: 49vw;
+  width: 65vw;
+  top: 27vw;
+  left: 7vw;
+}
+h10 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  top: 27vw;
+  left: 74vw;
+  width: 20vw;
+  height: 7vw;
+  line-height: 2vw;
+}
+.zag2 {
+  position: absolute;
+  height: 1.5vw;
+  width: 5vw;
+  top: 33vw;
+  left: 89vw;
+}
+.room21 {
+  position: absolute;
+  height: 21vw;
+  width: 20vw;
+  top: 55vw;
+  left: 74vw;
+}
+h101 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  top: 79vw;
+  left: 7vw;
+  width: 62vw;
+  height: 7vw;
+  line-height: 2vw;
+}
+.zag3 {
+  position: absolute;
+  height: 8vw;
+  width: 8vw;
+  top: 81vw;
+  left: 60vw;
+}
+.room22 {
+  position: absolute;
+  height: 48vw;
+  width: 86vw;
+  top: 92vw;
+  left: 7vw;
+}
+.podval5{
+  position: absolute;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  top: 146vw;
+}

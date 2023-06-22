@@ -1,0 +1,166 @@
+body {
+  width: 100vw;
+  height: 1500px;
+  margin: 0 auto;
+  position: absolute;
+  background: #FFFFFF;
+}
+.none {
+  display: none;
+}
+.menu{
+  position: fixed;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  z-index: 5;
+}
+.container1 {
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  position: relative;
+  width: 15vw;
+  height: 2.5vw;
+  padding-left: 4.6vw;
+  padding-top: 3.5vw;
+}
+a{
+  padding-top: 3.8vw;
+  text-decoration: none;
+}
+.main{
+  padding-top: 0.5vw;
+  text-decoration: none;
+}
+.kruggif {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 23.5vw;
+  top: 2.5vw;
+}
+.krugmenu1 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 23.5vw;
+  top: 2.5vw;
+}
+.kruggif2 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 35.5vw;
+  top: 2.5vw;
+}
+.krugmenu2 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 35.5vw;
+  top: 2.5vw;
+}
+.kruggif3 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 49vw;
+  top: 2.5vw;
+}
+.krugmenu3 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 49vw;
+  top: 2.5vw;
+}
+.kruggif4 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 63.5vw;
+  top: 2.5vw;
+}
+.krugmenu4 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 63.5vw;
+  top: 2.5vw;
+}
+.kruggif5 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 77vw;
+  top: 2.5vw;
+}
+.krugmenu5 {
+  position: absolute;
+  width: 11vw;
+  height: 5vw;
+  left: 77vw;
+  top: 2.5vw;
+}
+h41 {
+  font-family: "TT Ramillas Edu";
+  font-size: 2vw;
+  color: #000000;
+  padding-left: 6.5vw;
+  padding-top: 3.8vw;
+}
+h42 {
+  font-family: "TT Ramillas Edu";
+  font-size: 2vw;
+  color: #000000;
+  padding-left: 6.5vw;
+  padding-top: 3.8vw;
+}
+h43 {
+  font-family: "TT Ramillas Edu";
+  font-size: 2vw;
+  color: #000000;
+  padding-left: 6.5vw;
+  padding-top: 3.8vw;
+}
+h44 {
+  font-family: "TT Ramillas Edu";
+  font-size: 2vw;
+  color: #000000;
+  padding-left: 6.5vw;
+  padding-top: 3.8vw;
+}
+h45 {
+  font-family: "TT Ramillas Edu";
+  font-size: 2vw;
+  color: #000000;
+  padding-left: 6.5vw;
+  padding-top: 3.8vw;
+}
+.iconstar {
+  position: relative;
+  width: 4vw;
+  height: 4vw;
+  padding-left: 6.5vw;
+  padding-top: 2vw;
+}
+.hse{
+  width: 12vw;
+  height: 4vw;
+  margin-top: 3vw;
+    margin-left: 7vw;
+}
+.contact {
+  width: 13vw;
+  height: 4vw;
+  margin-top: 3vw;
+    margin-left: 27vw;
+}
+.name {
+  width: 10vw;
+  height: 4vw;
+  margin-top: 3vw;
+    margin-left: 24vw;
+}

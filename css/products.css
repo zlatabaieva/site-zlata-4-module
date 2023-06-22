@@ -1,0 +1,781 @@
+h8 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 9vw;
+  color: #000000;
+  top: 15vw;
+  left: 7vw;
+}
+.lline1 {
+  position: absolute;
+  height: 0.2vw;
+  width: 93vw;
+  top: 24.7vw;
+  left: 7vw;
+}
+.h15 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 2vw;
+  color: #000000;
+  top: 27vw;
+  left: 7vw;
+}
+h151 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  line-height: 2vw;
+  font-size: 1.6vw;
+  color: #000000;
+  top: 30vw;
+  left: 7vw;
+  width: 28vw;
+  height: 10vw;
+}
+.krug1{
+  position: absolute;
+  top: 26.5vw;
+  left: 35vw;
+  width: 7vw;
+  height: 2.5vw;
+}
+
+.button1{
+  position: absolute;
+  top: 45vw;
+  left: 32.5vw;
+  width: 12vw;
+  height: 4vw;
+}
+.piece1img1{
+  position: absolute;
+  top: 32vw;
+  left: 10.5vw;
+  width: 5vw;
+  height: 3.5vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards ;
+  animation-delay: 0.5s;
+}
+@keyframes piece1img {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+.piece2img1{
+  position: absolute;
+  top: 37.5vw;
+  left: 15.5vw;
+  width: 6.4vw;
+  height: 3.5vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 1.5s;
+}
+.piece3img1{
+  position: absolute;
+  top: 43vw;
+  left: 14vw;
+  width: 3.6vw;
+  height: 1.7vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 2.5s;
+}
+.product1{
+  position: absolute;
+  top: 31vw;
+  left: 7vw;
+  width: 23vw;
+  height: 14vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 3.5s;
+}
+.h15:hover {
+  cursor: pointer;
+}
+.h16 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 2vw;
+  color: #000000;
+  top: 27vw;
+  left: 53vw;
+}
+h161 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  line-height: 2vw;
+  font-size: 1.6vw;
+  color: #000000;
+  top: 30vw;
+  left: 53vw;
+  width: 28vw;
+  height: 10vw;
+}
+.krug2{
+  position: absolute;
+  top: 26.5vw;
+  left: 81vw;
+  width: 7vw;
+  height: 2.5vw;
+}
+.button2{
+  position: absolute;
+  top: 45vw;
+  left: 78.5vw;
+  width: 12vw;
+  height: 4vw;
+}
+.piece1img2{
+  position: absolute;
+  top: 35vw;
+  left: 57vw;
+  width: 4.5vw;
+  height: 2.4vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards ;
+  animation-delay: 0.5s;
+}
+.piece2img2{
+  position: absolute;
+  top: 37vw;
+  left: 68vw;
+  width: 3vw;
+  height: 1.8vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 1.5s;
+}
+.piece3img2{
+  position: absolute;
+  top: 40vw;
+  left: 60vw;
+  width: 7.4vw;
+  height: 4vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 2.5s;
+}
+.product2{
+  position: absolute;
+  top: 31vw;
+  left: 53vw;
+  width: 23vw;
+  height: 14vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 3.5s;
+}
+.h16:hover {
+  cursor: pointer;
+}
+.h17 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 2vw;
+  color: #000000;
+  top: 55vw;
+  left: 7vw;
+}
+h171 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  line-height: 2vw;
+  font-size: 1.6vw;
+  color: #000000;
+  top: 58vw;
+  left: 7vw;
+  width: 28vw;
+  height: 10vw;
+}
+.krug3{
+  position: absolute;
+  top: 54.5vw;
+  left: 35vw;
+  width: 7vw;
+  height: 2.5vw;
+}
+.button3{
+  position: absolute;
+  top: 72vw;
+  left: 32.5vw;
+  width: 12vw;
+  height: 4vw;
+}
+.piece1img3{
+  position: absolute;
+  top: 58vw;
+  left: 18.5vw;
+  width: 5vw;
+  height: 2.5vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards ;
+  animation-delay: 0.5s;
+}
+.piece2img3{
+  position: absolute;
+  top: 64vw;
+  left: 14vw;
+  width: 6.7vw;
+  height: 4vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 1.5s;
+}
+.piece3img3{
+  position: absolute;
+  top: 68vw;
+  left: 10vw;
+  width: 3.3vw;
+  height: 2vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 2.5s;
+}
+.product3{
+  position: absolute;
+  top: 58vw;
+  left: 7vw;
+  width: 23vw;
+  height: 14vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 3.5s;
+}
+.h17:hover {
+  cursor: pointer;
+}
+.h18 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 2vw;
+  color: #000000;
+  top: 55vw;
+  left: 53vw;
+}
+h181 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  line-height: 2vw;
+  font-size: 1.6vw;
+  color: #000000;
+  top: 58vw;
+  left: 53vw;
+  width: 28vw;
+  height: 10vw;
+}
+.krug4{
+  position: absolute;
+  top: 54.5vw;
+  left: 81vw;
+  width: 7vw;
+  height: 2.5vw;
+}
+.button4{
+  position: absolute;
+  top: 72vw;
+  left: 78.5vw;
+  width: 12vw;
+  height: 4vw;
+}
+.piece1img4{
+  position: absolute;
+  top: 60vw;
+  left: 58vw;
+  width: 3.8vw;
+  height: 2vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards ;
+  animation-delay: 0.5s;
+}
+.piece2img4{
+  position: absolute;
+  top: 61vw;
+  left: 63vw;
+  width: 8vw;
+  height: 4.7vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 1.5s;
+}
+.piece3img4{
+  position: absolute;
+  top: 69vw;
+  left: 62vw;
+  width: 6.7vw;
+  height: 3.5vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 2.5s;
+}
+.product4{
+  position: absolute;
+  top: 59vw;
+  left: 53vw;
+  width: 23vw;
+  height: 14vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 3.5s;
+}
+.h18:hover {
+  cursor: pointer;
+}
+.h19 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 2vw;
+  color: #000000;
+  top: 81vw;
+  left: 7vw;
+}
+h191 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  line-height: 2vw;
+  font-size: 1.6vw;
+  color: #000000;
+  top: 84vw;
+  left: 7vw;
+  width: 28vw;
+  height: 10vw;
+}
+.krug5{
+  position: absolute;
+  top: 80.5vw;
+  left: 35vw;
+  width: 7vw;
+  height: 2.5vw;
+}
+.button5{
+  position: absolute;
+  top: 97.5vw;
+  left: 32.5vw;
+  width: 12vw;
+  height: 4vw;
+}
+.piece1img5{
+  position: absolute;
+  top: 86vw;
+  left: 17vw;
+  width: 5vw;
+  height: 3vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards ;
+  animation-delay: 0.5s;
+}
+.piece2img5{
+  position: absolute;
+  top: 92vw;
+  left: 9vw;
+  width: 7vw;
+  height: 3vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 1.5s;
+}
+.piece3img5{
+  position: absolute;
+  top: 95vw;
+  left: 16vw;
+  width: 5vw;
+  height: 2vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 2.5s;
+}
+.product5{
+  position: absolute;
+  top: 84vw;
+  left: 7vw;
+  width: 23vw;
+  height: 14vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 3.5s;
+}
+.h19:hover {
+  cursor: pointer;
+}
+.h20 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 2vw;
+  color: #000000;
+  top: 81vw;
+  left: 53vw;
+}
+h201 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  line-height: 2vw;
+  font-size: 1.6vw;
+  color: #000000;
+  top: 84vw;
+  left: 53vw;
+  width: 28vw;
+  height: 10vw;
+}
+.krug6{
+  position: absolute;
+  top: 80.5vw;
+  left: 81vw;
+  width: 7vw;
+  height: 2.5vw;
+}
+.button6{
+  position: absolute;
+  top: 97.5vw;
+  left: 78.5vw;
+  width: 12vw;
+  height: 4vw;
+}
+.piece1img6{
+  position: absolute;
+  top: 85vw;
+  left: 62vw;
+  width: 4vw;
+  height: 2vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards ;
+  animation-delay: 0.5s;
+}
+.piece2img6{
+  position: absolute;
+  top: 90vw;
+  left: 59vw;
+  width: 5vw;
+  height: 4vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 1.5s;
+}
+.piece3img6{
+  position: absolute;
+  top: 92vw;
+  left: 67vw;
+  width: 2vw;
+  height: 1.7vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 2.5s;
+}
+.product6{
+  position: absolute;
+  top: 84vw;
+  left: 53vw;
+  width: 23vw;
+  height: 14vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 3.5s;
+}
+.h20:hover {
+  cursor: pointer;
+}
+.h21 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 2vw;
+  color: #000000;
+  top: 107vw;
+  left: 7vw;
+}
+h211 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  line-height: 2vw;
+  font-size: 1.6vw;
+  color: #000000;
+  top: 110vw;
+  left: 7vw;
+  width: 28vw;
+  height: 10vw;
+}
+.krug7{
+  position: absolute;
+  top: 106.5vw;
+  left: 35vw;
+  width: 7vw;
+  height: 2.5vw;
+}
+.button7{
+  position: absolute;
+  top: 125.5vw;
+  left: 32.5vw;
+  width: 12vw;
+  height: 4vw;
+}
+.piece1img7{
+  position: absolute;
+  top: 111vw;
+  left: 11vw;
+  width: 5vw;
+  height: 2vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards ;
+  animation-delay: 0.5s;
+}
+.piece2img7{
+  position: absolute;
+  top: 115vw;
+  left: 18vw;
+  width: 6vw;
+  height: 4vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 1.5s;
+}
+.piece3img7{
+  position: absolute;
+  top: 118vw;
+  left: 11vw;
+  width: 9vw;
+  height: 5vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 2.5s;
+}
+.product7{
+  position: absolute;
+  top: 110vw;
+  left: 7vw;
+  width: 23vw;
+  height: 14vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 3.5s;
+}
+.h21:hover {
+  cursor: pointer;
+}
+.h22 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 2vw;
+  color: #000000;
+  top: 107vw;
+  left: 53vw;
+}
+h221 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  line-height: 2vw;
+  font-size: 1.6vw;
+  color: #000000;
+  top: 110vw;
+  left: 53vw;
+  width: 28vw;
+  height: 10vw;
+}
+.krug8{
+  position: absolute;
+  top: 106.5vw;
+  left: 81vw;
+  width: 7vw;
+  height: 2.5vw;
+}
+.button8{
+  position: absolute;
+  top: 125.5vw;
+  left: 78.5vw;
+  width: 12vw;
+  height: 4vw;
+}
+.piece1img8{
+  position: absolute;
+  top: 113vw;
+  left: 56vw;
+  width: 8vw;
+  height: 5vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards ;
+  animation-delay: 0.5s;
+}
+.piece2img8{
+  position: absolute;
+  top: 115vw;
+  left: 68vw;
+  width: 5vw;
+  height: 3vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 1.5s;
+}
+.piece3img8{
+  position: absolute;
+  top: 119vw;
+  left: 60vw;
+  width: 7vw;
+  height: 4vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 2.5s;
+}
+.product8{
+  position: absolute;
+  top: 110vw;
+  left: 53vw;
+  width: 23vw;
+  height: 14vw;
+  opacity: 0;
+  animation:  piece1img 1s forwards;
+  animation-delay: 3.5s;
+}
+.h22:hover {
+  cursor: pointer;
+}
+
+.forma_after{
+  display: none;
+  width: 43vw;
+  height: 15vw;
+  z-index: 15;
+  background-color: #9CFA5F ;
+  position: fixed;
+  padding-top: 4vw;
+  top: calc( 50% - 2vw);
+  left: calc( 50% - 21.5vw);
+}
+.forma{
+  display: none;
+  width: 45vw;
+  height: 45vw;
+  z-index: 15;
+  background-color: #9CFA5F;
+  position: fixed;
+  top:10vw;
+  left: calc( 50% - 21.5vw);
+}
+.form-split {
+  width: 36vw;
+  position: relative;
+  margin-left: 4.5vw;
+  display: flex;
+  justify-content: space-between;
+}
+.form{
+font-family: "TT Ramillas Edu";
+font-size: 50px;
+color: #000000;
+text-align: center;
+margin-top: 2vw;
+z-index: 16;
+}
+.cross{
+  width: 2vw;
+  height: 2vw;
+  position: relative;
+  left: 41vw;
+  top: 2vw;;
+  cursor: pointer;
+}
+input[type="text"], input[type="email"], input[type="tel"], .put{
+    display: block;
+    width: 34vw;
+    position: relative;
+    margin: 0.5vw auto;
+    height: 2.7vw;
+    padding: 0 1.2vw;
+    font-family: "TT Ramillas Edu";
+    font-size: 1.2vw;
+    border: 1px solid #000000;
+}
+.put {
+  display: inline-block;
+  width: 36vw;
+}
+.textfor {
+    display: block;
+    position: relative;
+    font-family: "TT Ramillas Edu";
+    font-size: 1.6vw;
+    padding-top: 1vw;
+    padding-left: 4.5vw;
+
+}
+label{
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  margin-left: 2vw;
+}
+ .checkbox-list {
+    width: 40vw;
+    position: relative;
+    display: block;
+    margin: 1vw auto;
+  }
+  .custom{
+  position: absolute;
+  z-index: -1;
+  opacity: 0;
+}
+.custom+label {
+  display: inline-flex;
+  align-items: center;
+  user-select: none;
+}
+.custom+label::before {
+  content: '';
+  color: white;
+  background-color: white;
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  border: 0.05vw solid #000000;
+  margin-right: 0.5em;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 50% 50%;
+  cursor: pointer;
+}
+.custom:not(:disabled):not(:checked)+label:hover::before {
+  border-color: #000000;
+  background-color: #000000;
+}
+.custom:checked+label::before {
+  border-color: #000000;
+  background-color: #000000;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3e%3c/svg%3e");
+}
+.buttoncomplete{
+  font-size: 1.6vw;
+  width: 12vw;
+  height: 4vw;
+  color: white;
+  background-color: black;
+  border: 0.05vw solid rgba(0, 0, 0, 1);
+  position: relative;
+  top: 3vw;
+  left: 15vw;
+  z-index: 10;
+  text-align: center;
+  vertical-align:middle;
+  display:table-cell;
+  cursor: pointer;
+}
+.buttoncomplete:hover{
+  color: black;
+  background-color: white;
+  border: 0.05vw solid rgba(0, 0, 0, 1);
+  transition: .3s;
+  cursor: pointer;
+}
+.background{
+  display: none;
+  height:100vw;
+  width:100%;
+  position:fixed;
+  z-index: 11;
+  background: rgba(255, 255, 255, 0.2);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+}
+.podval10{
+  position: absolute;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  top: 140vw;
+}

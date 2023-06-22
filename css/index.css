@@ -1,0 +1,143 @@
+
+
+h1{
+  font-family: "Druzhok";
+  font-size: 22.5vw;
+  color: #000000;
+  padding-top: 20vw;
+  padding-left: 7vw;
+}
+.video{
+  position: absolute;
+  left:35vw;
+  top: 25vw;
+  width: 30vw;
+  height: 17vw;
+  z-index: 0;
+}
+h31{
+  font-family: "TT Ramillas Edu";
+  position: absolute;
+  font-size: 2.2vw;
+  color: #000000;
+  top: 140vw;
+  left: 17vw;
+  text-align: center;
+}
+h32{
+  font-family: "TT Ramillas Edu";
+  position: absolute;
+  font-size: 2.2vw;
+  color: #000000;
+  top: 143vw;
+  left: 26vw;
+  text-align: center;
+}
+h33{
+  font-family: "TT Ramillas Edu";
+  position: absolute;
+  font-size: 2.2vw;
+  color: #000000;
+  top: 146vw;
+  left: 15vw;
+  text-align: center;
+  padding-bottom: 10vw;
+}
+.strelka{
+position: absolute;
+width: 15vw;
+height: 6vw;
+left: 83vw;
+top: 133vw;
+z-index: 21;
+}
+.strelkagif{
+position: absolute;
+width: 15vw;
+height: 6vw;
+left: 83vw;
+top: 133vw;
+z-index: 21;
+}
+.zagugulya{
+position: absolute;
+width: 41vw;
+height: 4vw;
+left: 13vw;
+top: 150vw;
+z-index: 21;
+}
+
+.zagugulyagif{
+position: absolute;
+width: 41vw;
+height: 4vw;
+left: 13vw;
+top: 150vw;
+z-index: 21;
+}
+.podval1{
+  position: absolute;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  top: 162vw;
+}
+.back{
+  position: absolute;
+  top: 0vw;
+  width: 100vw;
+  height: 170vw;
+  background: #9CFA5F;
+  animation:  opac 5s forwards ;
+  z-index: 16;
+}
+.iconstar1{
+  position: absolute;
+  top: 25vw;
+  width: 7vw;
+  height: 7vw;
+  left: 42vw;
+    opacity: 0;
+  animation:  opac1 5s forwards ;
+  animation-delay: 0.5s;
+  z-index: 18;
+}
+.iconstar2{
+  position: absolute;
+  top: 22vw;
+  width: 4vw;
+  height: 4vw;
+  left: 48vw;
+  animation:  opac1 5s forwards ;
+  opacity: 0;
+  animation-delay: 1.5s;
+    z-index: 18;
+}
+@keyframes opac {
+  0% {opacity: 1;}
+    80% {opacity: 1;}
+  100% {opacity: 0;}
+}
+@keyframes opac1 {
+  0% {opacity: 1;}
+  30% {opacity: 1;}
+  80% {opacity: 0;}
+  100% {opacity: 0;}
+}
+.menuu{
+  position: fixed;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  z-index: 19;
+  animation:  opac2 3s forwards ;
+  opacity: 0;
+  animation-delay: 1.5s;
+}
+@keyframes opac2 {
+  0% {opacity: 0;}
+  30% {opacity: 0;}
+  80% {opacity: 0;}
+  100% {opacity: 1;}
+}

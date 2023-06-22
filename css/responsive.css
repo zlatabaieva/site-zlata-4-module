@@ -1,0 +1,145 @@
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  h1{
+    font-size: 20vw;
+    padding-left: 14vw;
+      padding-top: 20vw;
+  }
+  .video{
+ display: none;
+  }
+  h31{
+    top: 45vw;
+  }
+  h32{
+    top: 48vw;
+  }
+  h33{
+    top: 51vw;
+  }
+  .strelka{
+  top: 37vw;
+  z-index: 1;
+  }
+  .strelkagif{
+  top: 37vw;
+    z-index: 1;
+  }
+  .zagugulya{
+  top: 55vw;
+    z-index: 1;
+  }
+  .back{
+    height: 280vw;
+  }
+  .zagugulyagif{
+  top: 55vw;
+    z-index: 1;
+  }
+  .iconstar1{
+    top: 50vw;
+  }
+  .iconstar2{
+    top: 45vw;
+  }
+  .podval1{
+    top: 268vw;
+  }
+  h22{
+    top: 134vw;
+  }
+  .line3{
+    top: 150.7vw;
+  }
+  .horizSlider {
+    padding-top: 83vw;
+  }
+  .button{
+    top: 213vw;
+  }
+  .podval2{
+    top: 227vw;
+  }
+  .podval3{
+    top: 144vw;
+  }
+  .podval10{
+    top: 145vw;
+  }
+  .buttoncomplete{
+    top: 0.2vw;
+  }
+  .podval20{
+    top: 145vw;
+  }
+  .podval4{
+    top: 143vw;
+  }
+  .podval9{
+    top: 146vw;
+  }
+  .podval6{
+    top: 146vw;
+  }
+  .podval7{
+    top: 145vw;
+  }
+  .podval8{
+    top: 145vw;
+  }
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 767px) {
+
+  .video{
+display: none;
+  }
+  .podval1{
+    top: 368vw;
+  }
+  .back{
+    height: 380vw;
+  }
+  .podval2{
+    top: 300vw;
+  }
+  .podval3{
+    top: 296vw;
+  }
+  .podval10{
+    top: 295vw;
+  }
+  .forma_after{
+    top: 50vw;
+  }
+  .podval20{
+    top: 300vw;
+  }
+  .podval12{
+    top: 300vw;
+  }
+  .podval5{
+    top: 300vw;
+  }
+  .podval4{
+    top: 300vw;
+  }
+  .podval9{
+    top: 300vw;
+  }
+  .podval6{
+    top: 300vw;
+  }
+  .podval7{
+    top: 300vw;
+  }
+  .podval8{
+    top: 300vw;
+  }
+  .iconstar1{
+    top: 110vw;
+
+  }
+  .iconstar2{
+    top: 105vw;
+
+  }
+  }

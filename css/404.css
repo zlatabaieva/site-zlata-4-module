@@ -1,0 +1,24 @@
+h501{
+  font-family: "Druzhok";
+  font-size: 22.5vw;
+  color: #000000;
+  padding-top: 20vw;
+  text-align: center;
+  padding-left: 30vw;
+}
+h502{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 2.2vw;
+  color: #000000;
+  top: 20vw;
+  left: 38vw;
+  text-align: center;
+}
+.logo1 {
+  position: absolute;
+  width: 15vw;
+  height: 2.5vw;
+  left: 43vw;
+  padding-top: 25vw;
+}

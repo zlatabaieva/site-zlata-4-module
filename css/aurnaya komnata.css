@@ -1,0 +1,61 @@
+h8 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 9vw;
+  color: #000000;
+  top: 15vw;
+  left: 7vw;
+}
+.lline1 {
+  position: absolute;
+  height: 0.2vw;
+  width: 93vw;
+  top: 24.7vw;
+  left: 7vw;
+}
+.room1 {
+  position: absolute;
+  height: 48vw;
+  width: 85vw;
+  top: 27vw;
+  left: 7vw;
+}
+h9{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  top: 79vw;
+  left: 7vw;
+  width: 58vw;
+  height: 9vw;
+  line-height: 2vw;
+}
+.room11 {
+  position: absolute;
+  height: 34vw;
+  width: 56vw;
+  top: 93vw;
+  left: 7vw;
+}
+.room12 {
+  position: absolute;
+  height: 34vw;
+  width: 27vw;
+  top: 93vw;
+  left: 64vw;
+}
+.podval4{
+  position: absolute;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  top: 133vw;
+}
+.zag1 {
+  position: absolute;
+  height: 1.4vw;
+  width: 28vw;
+  top: 88vw;
+  left: 35vw;
+}

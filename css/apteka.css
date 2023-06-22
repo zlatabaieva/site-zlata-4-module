@@ -1,0 +1,88 @@
+h8{
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 9vw;
+  color: #000000;
+  top: 15vw;
+  left: 7vw;
+}
+.lline1{
+  position: absolute;
+  height: 0.2vw;
+  width: 93vw;
+  top: 24.7vw;
+  left: 7vw;
+}
+h81{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  top: 27vw;
+  left: 7vw;
+  width: 41vw;
+  height: 9vw;
+  line-height: 2vw;
+}
+.zdanie{
+  position: absolute;
+  height: 77vw;
+  width: 86vw;
+  top: 46vw;
+  left: 7vw;
+}
+.pluscontainerfloors{
+  position: absolute;
+  width: 4vw;
+  height: 4vw;
+  background-color: #9CFA5F;
+  border-radius: 2vw;
+}
+.plusfloor1 {
+  left: 69vw;
+  top: 48vw;
+}
+.plusfloor2 {
+  left: 10vw;
+  top: 73vw;
+}
+.plusfloor3 {
+  left: 6vw;
+  top: 87vw;
+}
+.plusfloor4 {
+  left: 24vw;
+  top: 119vw;
+}
+.plusfloor5 {
+  left: 68vw;
+  top: 118vw;
+}
+.plusfloor6 {
+  left: 21vw;
+  top: 80vw;
+}
+.plus {
+  width: 3vw;
+  height: 3vw;
+  margin-left: 0.5vw;
+  margin-top: 0.6vw;
+}
+p{
+  margin-left: 4.7vw;
+  margin-top: -2.6vw;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  overflow: hidden;
+  opacity: 0;
+  width: 20vw;
+  height: 2vw;
+}
+.podval3{
+  position: absolute;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  top: 130vw;
+}

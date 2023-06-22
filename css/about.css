@@ -1,0 +1,265 @@
+.bottle{
+  position: absolute;
+  height: 11vw;
+  width: 7vw;
+  left: 4vw;
+  top: 15vw;
+}
+.star0{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star1{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star2{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star3{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star4{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star5{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star6{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star7{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star8{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star9{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star10{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star11{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+.star12{
+  position: absolute;
+  height: 2.5vw;
+  width: 2.5vw;
+  left: 12vw;
+  top: 52vw;
+  opacity: 0;
+}
+h2{
+  font-family: "Druzhok";
+  font-size: 9vw;
+  color: #000000;
+  padding-top: 15vw;
+  padding-left: 33vw;
+}
+h5{
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  padding-top: 1.3vw;
+  padding-left: 33vw;
+  width: 55vw;
+  height: 16vw;
+  line-height: 2vw;
+}
+.line1{
+  position: relative ;
+  height: 0.2vw;
+  width: 67vw;
+  padding-top: 0.7vw;
+  padding-left: 33vw;
+}
+h21{
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 9vw;
+  color: #000000;
+  top: 45vw;
+  left: 33vw;
+}
+.line2{
+  position: relative ;
+  height: 0.2vw;
+  width: 67vw;
+  padding-top: 12.4vw;
+  padding-left: 33vw;
+}
+h51{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  top: 57vw;
+  left: 33vw;
+  width: 55vw;
+  height: 16vw;
+  line-height: 2vw;
+}
+h52{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  top: 70.5vw;
+  left: 33vw;
+  width: 55vw;
+  height: 16vw;
+  line-height: 2vw;
+}
+h53{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  top: 86vw;
+  left: 33vw;
+  width: 55vw;
+  height: 16vw;
+  line-height: 2vw;
+}
+h22{
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 8vw;
+  color: #000000;
+  top: 114vw;
+  left: 7vw;
+}
+.line3{
+  position: absolute ;
+  height: 0.2vw;
+  width: 93vw;
+  top: 130.7vw;
+  left: 7vw;
+}
+.horizSlider {
+  position: relative;
+  white-space: nowrap;
+  overflow: auto;
+  padding-top: 63vw;
+  left: 7vw;
+  width: 88vw;
+  height: auto;
+}
+.horizSlider .slide {
+  display: inline-block;
+  position: relative;
+}
+.slideImage {
+  transform-origin: bottom left;
+  padding-left: 5vw;
+  padding-top: 17vw;
+}
+.slideText {
+font-family: "TT Ramillas Edu";
+  font-size: 2vw;
+  color: #000000;
+  padding-top: 2vw;
+  padding-left: 14vw;
+}
+.button{
+  position: absolute ;
+  height: 6.5vw;
+  width: 22vw;
+  top: 173vw;
+  left: 7vw;
+}
+.podval2{
+  position: absolute;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  top: 187vw;
+}
+.z1{
+  position: absolute;
+  height: 1.3vw;
+  width: 5vw;
+  top: 39vw;
+  left: 57vw;
+}
+.z2{
+  position: absolute;
+  height: 1.3vw;
+  width: 19vw;
+  top: 107vw;
+  left: 37vw;
+}
+.z1gif{
+  position: absolute;
+  height: 1.3vw;
+  width: 5vw;
+  top: 39vw;
+  left: 57vw;
+}
+.z2gif{
+  position: absolute;
+  height: 1.3vw;
+  width: 19vw;
+  top: 107vw;
+  left: 37vw;
+}

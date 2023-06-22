@@ -1,0 +1,108 @@
+h8 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 9vw;
+  color: #000000;
+  top: 15vw;
+  left: 7vw;
+}
+.lline1 {
+  position: absolute;
+  height: 0.2vw;
+  width: 93vw;
+  top: 24.7vw;
+  left: 7vw;
+}
+.items-section{
+  position: absolute;
+  top: 27vw;
+  left: 7vw;
+  width: 85vw;
+  height: 40vw;
+}
+.items {
+  overflow: hidden;
+  display: flex;
+  gap: 0.4vw;
+}
+.item {
+  display: flex;
+  width: 25vw;
+  min-width: 25vw;
+  height: 40vw;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+  animation: items-move 10s linear infinite;
+  animation-play-state: running;
+  animation-direction: alternate;
+  overflow: hidden;
+
+}
+.item:active {
+  transition: 0.01s ease-in-out;
+}
+.item-img {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  object-fit: cover;
+  z-index: 1;
+}
+.blur{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  object-fit: cover;
+  z-index: 0;
+  background: #9CFA5F;
+  filter: blur(8vw);
+  opacity: 0;
+}
+.items:hover .item {
+  animation-play-state: paused;
+}
+
+@keyframes items-move {
+  0% {transform: translateX(7vw);}
+  100% {transform: translateX(-100vw);}
+}
+.item-hidden {
+  font-family: 'TT Ramillas Edu';
+  font-size: 3vw;
+  margin-top: 2vw;
+  margin-left: 1.6vw;
+}
+.item:hover {
+  cursor: pointer;
+}
+.item:active {
+  transition: 0.01s ease-in-out;
+}
+.item:hover .item-img {
+display: none;
+}
+.item:hover .blur {
+opacity: 1;
+}
+.item:hover .item-hidden {
+  z-index: 5;
+}
+h60{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 1.6vw;
+  color: #000000;
+  top: 73vw;
+  left: 7vw;
+  width: 41vw;
+  height: 9vw;
+  line-height: 2vw;
+}
+.podval20{
+  position: absolute;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  top: 95vw;
+}

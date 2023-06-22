@@ -1,0 +1,22 @@
+@import 'reset.css';
+@import 'content.css';
+@import "index.css";
+@import "about.css";
+@import "apteka.css";
+@import "aurnaya komnata.css";
+@import "torgoviy zal.css";
+@import "1 zona otdyha.css";
+@import "2 zona otdyha.css";
+@import "3 zona otdyha.css";
+@import "kasy.css";
+@import "news.css";
+@import "products.css";
+@import "sales.css";
+@import "404.css";
+@import "responsive.css";
+@font-face {
+    font-family: "TT Ramillas Edu";
+    src: url(../fonts/TT-Ramillas-Educational-Regular.otf);
+    font-family: "Druzhok";
+    src: url(../fonts/DRUZHOK.otf);
+  }

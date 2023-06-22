@@ -1,0 +1,172 @@
+h8 {
+  position: absolute;
+  font-family: "Druzhok";
+  font-size: 9vw;
+  color: #000000;
+  top: 15vw;
+  left: 7vw;
+}
+.lline1 {
+  position: absolute;
+  height: 0.2vw;
+  width: 93vw;
+  top: 24.7vw;
+  left: 7vw;
+}
+h301 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 27vw;
+  left: 7vw;
+}
+h302 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 35vw;
+  left: 7vw;
+}
+h303 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 43vw;
+  left: 7vw;
+}
+h304 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 43vw;
+  left: 45vw;
+}
+h305 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 51vw;
+  left: 7vw;
+}
+h306 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 51vw;
+  left: 35vw;
+}
+h307 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 59vw;
+  left: 7vw;
+}
+h308 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 67vw;
+  left: 7vw;
+}
+h309 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 76vw;
+  left: 7vw;
+}
+h311 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 76vw;
+  left: 60vw;
+}
+h312 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 94vw;
+  left: 7vw;
+}
+h313 {
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 94vw;
+  left: 48vw;
+}
+h314{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 102vw;
+  left: 27vw;
+}
+h315{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 110vw;
+  left: 27vw;
+}
+h316{
+  position: absolute;
+  font-family: "TT Ramillas Edu";
+  font-size: 5vw;
+  color: #000000;
+  top: 118vw;
+  left: 7vw;
+}
+.bottle1{
+  position: absolute;
+  height: 15vw;
+  width: 10vw;
+  top: 58vw;
+  left: 70vw;
+}
+.bottle2{
+  position: absolute;
+  height: 15vw;
+  width: 10vw;
+  top: 76vw;
+  left: 44vw;
+}
+.bottle3{
+  position: absolute;
+  height: 15vw;
+  width: 12vw;
+  top: 101vw;
+  left: 7vw;
+}
+.butt{
+  position: absolute;
+  height: 6vw;
+  width: 18vw;
+  top: 117vw;
+  left: 49vw;
+  background-image: url("../images/butt.png");
+background-size: cover;
+}
+.podval12{
+  position: absolute;
+  width: 100vw;
+  height: 9.5vw;
+  background: #9CFA5F;
+  top: 138vw;
+}
